@@ -510,6 +510,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [mcp-slim](https://github.com/SalyyS1/mcp-slim) - Zero-dependency MCP stdio proxy and CLI profiler that compacts tool schemas and outputs by 50%-98%, inlines $ref pointers, and redacts leaked secrets in real time.
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
